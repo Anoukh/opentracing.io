@@ -103,6 +103,9 @@ params:
     url: https://www.datadoghq.com/
     icon: datadog.png
   frameworks:
+  - name: Ballerina
+    url: https://ballerina.io
+    icon: ballerina.png
   - name: gRPC
     url: http://grpc.io
     icon: grpc.svg
